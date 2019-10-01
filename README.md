@@ -5,7 +5,7 @@ Check our TEAM accomplishments wrt [CAMERA](camera.lbl.gov) Image Processing and
 ### Oct 1st - our Keynote: Latest research in machine learning
 - Chair: Kelsey Stoerzinger, Oregon State University
 - Building 50 Auditorium
-- [[slides]](https://drive.google.com/open?id=1WI7V8-xL1H_7WIclPtta5QvlmmCK-hjW) [[code]](Ushizima_ALS_keynote.ipynb)
+- [[slides]](https://drive.google.com/open?id=1WI7V8-xL1H_7WIclPtta5QvlmmCK-hjW) [[software]](https://sites.google.com/lbl.gov/ideal/software)
 
 
 ### Oct 2nd - our Talk: Workshop in Application of Machine Learning to Achieve Autonomous Experimentation
@@ -16,12 +16,12 @@ Check our TEAM accomplishments wrt [CAMERA](camera.lbl.gov) Image Processing and
 
 ### MRS Bulletin Materials News Podcast: 
 Classify nanoparticle orientation in a thin film by learning scattering
-patterns [[podcast]](https://www.buzzsprout.com/244633/1444189}
+patterns [[podcast]](https://www.buzzsprout.com/244633/1444189) with Hexemer, Ushizima and Shuai
 
 ### License
 The MIT License (MIT)
 
-Copyright (c) 2019 Araujo, Silva and Ushizima
+Copyright (c) 2019 Ushizima
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

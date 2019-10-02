@@ -6,7 +6,7 @@ LBNL ALS User Meeting in [Oct 2019](https://als.lbl.gov/2019-user-meeting-worksh
 
 Check our TEAM accomplishments wrt [CAMERA](camera.lbl.gov) Image Processing and DOE ASCR Early Career Research Project [IDEAL](bit.ly/idealdatascience)
 
-### Oct 1st - check [[ImageSearch]](bit.ly/aimagesearch) for image recommendation
+### Oct 1st - check [[ImageSearch]](http://bit.ly/aimagesearch) for image recommendation
 
 -	a release of pyCBIR, a free open-source python based software compatible with the latest version of TensorFlow (r2.0)
 
